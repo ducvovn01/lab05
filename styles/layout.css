@@ -50,16 +50,22 @@ nav ol {
 #images {float: right;}
 #hyperlinks {clear:both; float:left;}
 footer {
+    display: flex;
     clear: both;
+    justify-content: space-between;
     border-top: 4px double black;
+    margin: 40 px;
 }
 footer p:first-child { float:left; }
-
-footer p:nth-child(2) {text-align: center; }
-
+footer p:nth-child(2) {text-align: center;}
 footer p:last-child {float:right;}
+
 .definition {
     display:block;
     border: 2px double black;
     margin: 1em;
+}
+article {min-width:30em;}
+ol, ul, dl {
+    text-align: left;
 }
