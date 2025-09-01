@@ -48,10 +48,9 @@ nav ol {
 #hyperlinks {clear: left; float: left}
 #images {float: right;}
 #hyperlinks {clear:both; float:left;}
-#footer {
+footer {
     clear: both;
-    text-align: center;
-    margin-top: 20px;
+    border-top: 4px double black;
 }
 .definition {
     display:block;
