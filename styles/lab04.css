@@ -40,7 +40,7 @@ table, thead, tbody, tfoot {
 }
 td, th, tr {
     border-style: solid;
-    border: dashed;
+    border: solid;
 }
 nav a {
     text-decoration: none;
