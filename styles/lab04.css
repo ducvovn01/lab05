@@ -51,9 +51,7 @@ nav a:hover {
     background-color: lightblue;
     border-color: darkblue;
 }
-footer {
-    text-align: right;
-}
+
 #sublist {
     list-style-type: square;
 }

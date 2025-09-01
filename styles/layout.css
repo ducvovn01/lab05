@@ -51,5 +51,10 @@ nav ol {
 #footer {
     clear: both;
     text-align: center;
-    display: inline-block;
+    margin-top: 20px;
+}
+.definition {
+    display:block;
+    border: 2px double black;
+    margin: 1em;
 }
