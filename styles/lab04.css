@@ -1,0 +1,68 @@
+/*
+filename: lab04.html
+author: Kieran
+created: 27/08/2025
+last modified: 27/08/2025
+description: web files for cat
+*/
+/* General Page Styles */
+* {font-family: 'Helvetica', sans-serif}
+body {
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: black;
+}
+
+h1 {
+    color: rgb(176, 106, 176);
+    font-size: 2em;
+}
+h2 {
+  color: #069c9e;
+}
+aside {
+  font-style: italic;
+}
+#redcolor {
+    color: red;
+}
+.special {
+          color: lightgreen;
+          font-weight:bold;
+         }   
+#images {
+    text-align: center;
+}
+table, thead, tbody, tfoot {
+    border-style: solid;
+}
+td, th, tr {
+    border-style: solid;
+    border: dashed;
+}
+nav a {
+    text-decoration: none;
+    padding:0.2em 0.6em;
+    border: 4px solid #ccc;
+    }     
+nav a:hover {
+    background-color: lightblue;
+    border-color: darkblue;
+}
+footer {
+    text-align: right;
+}
+#sublist {
+    list-style-type: square;
+}
+#exlink {
+    color: black;
+}
+#listhyper {
+    color: black;
+}
+#mail {
+    color: black;
+}
