@@ -45,7 +45,10 @@ nav ul {
 nav ol {
     text-align: left;
 }
-#tables {float:right; margin: auto;}
+#tables {
+    float:right; 
+    margin: auto;
+}
 #hyperlinks {clear: left; float: left}
 #images {float: right;}
 #hyperlinks {clear:both; float:left;}
@@ -68,4 +71,17 @@ footer p:last-child {float:right;}
 article {min-width:30em;}
 ol, ul, dl {
     text-align: left;
+}
+caption{
+    text-align: center;
+}
+thead, tbody, tfoot {
+    text-align: center;
+}
+#lists, #tables, #hyperlinks, #images {
+    text-align: center;
+    width: 50%;
+}
+table {
+    align-items: center;
 }
