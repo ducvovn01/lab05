@@ -8,9 +8,9 @@ description: web files for cat
 * {font-family: 'Helvetica', sans-serif}
 aside:hover {display:block;}
 header {
-    color: purple;
+    color: red;
     text-align: center;
-    background-color: lightgray;
+    background-color: whitesmoke;
     padding: 0.5em;
     margin: 0.5em;
     border: 1px solid black;
